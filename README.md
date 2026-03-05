@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/muhammed-asharaf-vp">
+    <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammed-asharaf-vp&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-asharaf-vp&theme=tokyonight" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/muhammed-asharaf-vp/muhammed-asharaf-vp/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
