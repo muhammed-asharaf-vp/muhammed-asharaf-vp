@@ -16,107 +16,94 @@
 
 # 👋 Hey there!
 
-I'm **Mohamed Asharaf VP**, a passionate **Frontend Developer** focused on building **modern, responsive, and interactive web applications**.
+I'm **Mohamed Asharaf VP**, a passionate **Frontend Developer** who enjoys building **modern, responsive, and interactive web applications.**
 
-I specialize in crafting **clean UI, smooth animations, and scalable frontend architectures** using modern JavaScript frameworks.
-
----
-
-# 🚀 Professional Summary
-
-Frontend Developer with hands-on experience building **modern, responsive web applications** using **React.js, Next.js, JavaScript, and TypeScript**.
-
-I focus on:
-
-* Performance optimized frontend systems
-* Reusable component architecture
-* Smooth UI animations with **GSAP**
-* Interactive web experiences with **Three.js**
-
-I enjoy transforming **complex ideas into elegant, user-friendly interfaces**.
+I love transforming ideas into **clean UI, smooth animations, and scalable web experiences.**
 
 ---
 
-# 💼 Professional Experience
+# 🚀 About Me
 
-### Frontend Developer Intern
-
-**Bridgeon Solutions LLP — Calicut**
-
-* Built **10+ responsive UI screens** using React.js, Next.js, HTML5, CSS3 and Tailwind CSS
-* Developed **20+ reusable React components** to accelerate UI development
-* Implemented **GSAP animations across 8+ UI interactions**
-* Integrated **5+ REST APIs** to render dynamic data
-* Collaborated with **3–4 backend developers** for API integration
-* Optimized frontend performance and reduced load time by **30%**
-* Participated in **Agile sprints, standups, and code reviews**
+* 💻 Frontend Developer focused on **React & Next.js**
+* 🎨 Love creating **smooth UI animations using GSAP & Framer Motion**
+* ⚡ Passionate about **performance optimized web apps**
+* 🌱 Currently learning **Full Stack Development**
+* 🎯 Goal: Build **high-quality modern web products**
 
 ---
 
-# 🚀 Featured Projects
+# 🧠 Tech Stack
 
-## ⌚ Veloce — Premium Watch Showcase Website
+<div align="center">
 
-A premium product showcase website with advanced animations.
+<table>
+<tr>
 
-**Key highlights**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>React
+</td>
 
-* Built **12+ modular React components**
-* Created **100% responsive UI**
-* Implemented **GSAP animations across 10+ transitions**
-* Developed **5+ interactive product showcase sections**
-* Ensured **cross-browser compatibility**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js
+</td>
 
-**Tech Stack**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="55"/><br>TypeScript
+</td>
 
-React.js • JavaScript • GSAP • Tailwind CSS • HTML • CSS
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>JavaScript
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind
+</td>
 
-## 💬 Chatloop — Secure Social Networking Platform
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML
+</td>
 
-A social networking platform supporting **real-time messaging and content sharing**.
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS
+</td>
 
-**Key highlights**
+</tr>
 
-* Developed **authentication and messaging modules**
-* Implemented **content sharing and profile management**
-* Reduced misuse incidents by **30% with secure workflows**
-* Followed **Agile sprint-based development**
+<tr>
 
-**Tech Stack**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git
+</td>
 
-Flutter • Dart • Python • SQL • HTML • CSS • Bootstrap • JavaScript
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+</td>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code
+</td>
 
-# 🧠 Technical Skills
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma
+</td>
 
-### Frontend
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>Vercel
+</td>
 
-React.js • Next.js • JavaScript • TypeScript
-HTML5 • CSS3 • Tailwind CSS • Bootstrap
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>Postman
+</td>
 
-### Animation & 3D
+<td align="center">
+<img src="https://skillicons.dev/icons?i=npm" width="55"/><br>NPM
+</td>
 
-GSAP • Three.js • React Three Fiber
+</tr>
 
-### State Management
+</table>
 
-React Context API
-
-### Tools
-
-Git • GitHub • npm • VS Code
-
-### Concepts
-
-Component Architecture
-Responsive Design
-API Integration
-Performance Optimization
-Clean Code Practices
-Agile / Scrum
+</div>
 
 ---
 
@@ -152,13 +139,6 @@ Agile / Scrum
 
 ---
 
-# 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-University of Calicut
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -167,11 +147,11 @@ University of Calicut
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:mohamedasharafvpp@gmail.com">
+<a href="mailto:your@email.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://portfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
