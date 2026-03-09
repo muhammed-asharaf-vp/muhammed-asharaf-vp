@@ -121,11 +121,11 @@ I love transforming ideas into **clean UI, smooth animations, and scalable web e
 
 # 📈 Top Languages
 
-<div align="center">
+## 📈 Top Languages
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
