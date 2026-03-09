@@ -120,11 +120,13 @@ I love transforming ideas into **clean UI, smooth animations, and scalable web e
 ---
 
 
-## 📈 Top Languages
+## 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
 
 # 🐍 Contribution Snake
 
