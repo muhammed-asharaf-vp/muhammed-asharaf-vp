@@ -119,7 +119,6 @@ I love transforming ideas into **clean UI, smooth animations, and scalable web e
 
 ---
 
-# 📈 Top Languages
 
 ## 📈 Top Languages
 
