@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=100&section=header&text=SYSTEM%20ECOSYSTEM&fontSize=40&fontColor=646cff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=100&section=header&text=%20ECOSYSTEM&fontSize=40&fontColor=646cff&animation=fadeIn" />
 
 <br/>
 
