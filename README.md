@@ -46,7 +46,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true" width="300" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,Tailwind&perline=2" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,&perline=2" />
     </td>
   </tr>
   <tr>
