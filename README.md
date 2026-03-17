@@ -60,11 +60,27 @@
 
 ---
 
-# 👋 Hey there!
+# # ⚡ Senior Frontend Architect
+**Crafting Immersive Digital Experiences with Code.**
 
-I'm **Mohamed Asharaf VP**, a passionate **Frontend Developer** who enjoys building **modern, responsive, and interactive web applications.**
+---
 
-I love transforming ideas into **clean UI, smooth animations, and scalable web experiences.**
+### 👨‍💻 Profile
+I am **Mohamed Asharaf VP**, a specialized Frontend Engineer dedicated to building **high-performance, interactive, and visually stunning** web applications. My approach combines technical precision with creative flair, ensuring every interface is as functional as it is beautiful.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Exp-Frontend_Specialist-646cff?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building_Scalable_Apps-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-UI_UX_%26_Motion-646cff?style=flat-square&logo=greensock&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Core Competencies
+* **Architecture:** Developing modular, scalable frontend systems using **React** and **Next.js**.
+* **Visual Engineering:** Creating immersive 3D environments and smooth interactions with **Three.js** and **GSAP**.
+* **Performance:** Optimizing web vitals and ensuring seamless responsiveness across all devices.
+* **UI/UX Mastery:** Transforming complex requirements into clean, user-centric interfaces with **Tailwind CSS**.
 
 ---
 
