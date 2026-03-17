@@ -36,16 +36,29 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-0f172a?style=for-the-badge&logo=tailwindcss)
 
 <br/>
-
 <div align="center">
-  <h3>🏙️ Contribution Skyline</h3>
-  <img src="https://github-readme-stats.vercel.app/api/stats?username=muhammed-asharaf-vp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
-  
-  <br/>
-  
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=muhammed-asharaf-vp&theme=night-rainbow" alt="3D Contributions" />
-</div>
 
+<h3>🛰️ System Ecosystem</h3>
+
+<table>
+  <tr>
+    <td align="center" rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap&perline=2" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+       <a href="https://github.com/muhammed-asharaf-vp">
+         <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=UPTIME&color=646cff&style=flat-square"/>
+       </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 </div>
 
 ---
