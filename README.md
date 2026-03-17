@@ -38,25 +38,31 @@
 <br/>
 <div align="center">
 
-<h3>🛰️ System Ecosystem</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=100&section=header&text=SYSTEM%20ECOSYSTEM&fontSize=40&fontColor=646cff&animation=fadeIn" />
+
+<br/>
 
 <table>
   <tr>
-    <td align="center" rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+    <td align="center" rowspan="2" style="background: #0d1117; border: 1px solid #646cff;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=tokyonight&hide_border=true&title_color=646cff&text_color=ffffff" width="300" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,&perline=2" />
+    <td align="center" style="background: #0d1117;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,tailwind,figma&perline=3" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background: #161b22;">
        <a href="https://github.com/muhammed-asharaf-vp">
-         <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=UPTIME&color=646cff&style=flat-square"/>
+         <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=SYSTEM_UPTIME&color=646cff&style=for-the-badge&logo=cpu"/>
        </a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=646CFF&center=true&vCenter=true&width=600&lines=CORE+MODULES+LOADED...;SYNCING+REACTIVE+UI;THREE.JS+RENDERER+ACTIVE;GSAP+TICKER+RUNNING" alt="Typing SVG" />
 
 </div>
 </div>
