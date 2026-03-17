@@ -2,13 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Mohamed%20Asharaf%20VP&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20GSAP&descAlignY=65&descSize=20"/>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,js,html,css,git" />
+</p>
 
-<div align="center">
-
-<a href="https://github.com/muhammed-asharaf-vp">
-<img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=Profile%20Views&color=646cff&style=for-the-badge"/>
-</a>
+<p align="center">
+  <a href="https://github.com/muhammed-asharaf-vp">
+    <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=PROFILE%20VIEWS&color=2c5364&style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 </div>
 
