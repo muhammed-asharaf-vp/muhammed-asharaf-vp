@@ -59,39 +59,49 @@
 </div>
 
 ---
+<div align="center">
 
-# # ⚡ Senior Frontend Architect
-**Crafting Immersive Digital Experiences with Code.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=646CFF&center=true&vCenter=true&width=600&height=70&lines=MOHAMED+ASHARAF+VP;FRONTEND+ARCHITECT;CREATIVE+DEVELOPER" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=646cff&height=120&section=header&text=Building%20Digital%20Experiences&fontSize=25&fontAlignY=35&animation=fadeIn" width="100%" />
+
+</div>
+
+### 🚀 Professional Mission
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&width=800&height=40&lines=Transforming+ideas+into+clean+UI;Crafting+smooth+animations+with+GSAP;Building+scalable+web+experiences+with+Next.js" alt="Typing SVG" />
+</p>
+
+> [!IMPORTANT]
+> **Mohamed Asharaf VP** | Specialized in **React**, **Next.js**, and **Interactive 3D Web**.
+> Passionate about the intersection of high-performance code and aesthetic design.
 
 ---
 
-### 👨‍💻 Profile
-I am **Mohamed Asharaf VP**, a specialized Frontend Engineer dedicated to building **high-performance, interactive, and visually stunning** web applications. My approach combines technical precision with creative flair, ensuring every interface is as functional as it is beautiful.
+### 🛰️ System Status: Active
+<div align="left">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Exp-Frontend_Specialist-646cff?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building_Scalable_Apps-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-UI_UX_%26_Motion-646cff?style=flat-square&logo=greensock&logoColor=white" />
+| Capability | Integration | Status |
+| :--- | :--- | :--- |
+| **Frontend Core** | React • Next.js • TypeScript | `Operational` |
+| **Motion Design** | GSAP • Framer Motion | `Active` |
+| **3D Rendering** | Three.js • React Three Fiber | `Syncing` |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,tailwind,figma,vercel,git&perline=8" />
 </p>
 
 ---
 
-### 🚀 Core Competencies
-* **Architecture:** Developing modular, scalable frontend systems using **React** and **Next.js**.
-* **Visual Engineering:** Creating immersive 3D environments and smooth interactions with **Three.js** and **GSAP**.
-* **Performance:** Optimizing web vitals and ensuring seamless responsiveness across all devices.
-* **UI/UX Mastery:** Transforming complex requirements into clean, user-centric interfaces with **Tailwind CSS**.
-
----
-
-# 🚀 About Me
-
-* 💻 Frontend Developer focused on **React & Next.js**
-* 🎨 Love creating **smooth UI animations using GSAP & Framer Motion**
-* ⚡ Passionate about **performance optimized web apps**
-* 🌱 Currently learning **Full Stack Development**
-* 🎯 Goal: Build **high-quality modern web products**
-
+<div align="right">
+  <a href="https://github.com/muhammed-asharaf-vp">
+    <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=UPTIME&color=646cff&style=flat-square&logo=cpu"/>
+  </a>
+</div>
 ---
 
 # 🧠 Tech Stack
