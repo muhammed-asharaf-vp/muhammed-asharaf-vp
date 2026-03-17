@@ -91,9 +91,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,tailwind,figma,vercel,git&perline=8" />
-</p>
 
 ---
 
