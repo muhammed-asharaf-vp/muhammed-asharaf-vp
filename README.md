@@ -37,8 +37,14 @@
 
 <br/>
 
-<h3>🐍 Contribution Activity</h3>
-<img src="https://raw.githubusercontent.com/muhammed-asharaf-vp/muhammed-asharaf-vp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <h3>🏙️ Contribution Skyline</h3>
+  <img src="https://github-readme-stats.vercel.app/api/stats?username=muhammed-asharaf-vp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+  
+  <br/>
+  
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=muhammed-asharaf-vp&theme=night-rainbow" alt="3D Contributions" />
+</div>
 
 </div>
 
