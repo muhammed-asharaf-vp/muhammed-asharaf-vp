@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Mohamed%20Asharaf%20VP&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20GSAP&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Mohamed%20Asharaf%20VP&fontColor=646cff&fontSize=65&animation=twinkling&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=646CFF&center=true&vCenter=true&width=500&lines=Frontend+Architect;React+%2B+Next.js+Expert;Creative+Coding+with+GSAP;Building+the+Future+of+Web" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/muhammed-asharaf-vp">
+  <img src="https://img.shields.io/badge/VISITORS-%7C%201.2k-646cff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,js,html,css,git" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/muhammed-asharaf-vp">
-    <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=PROFILE%20VIEWS&color=2c5364&style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,tailwind,js,figma,vercel&perline=8" />
 </p>
 
 </div>
