@@ -27,15 +27,6 @@
 
 <br/>
 
-<h3>⚡ Current Stack ⚡</h3>
-
-![React](https://img.shields.io/badge/-React-0f172a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0f172a?style=for-the-badge&logo=nextdotjs)
-![GSAP](https://img.shields.io/badge/-GSAP-0f172a?style=for-the-badge&logo=greensock)
-![Three.js](https://img.shields.io/badge/-Three.js-0f172a?style=for-the-badge&logo=threedotjs)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0f172a?style=for-the-badge&logo=tailwindcss)
-
-<br/>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=100&section=header&text=SYSTEM%20ECOSYSTEM&fontSize=40&fontColor=646cff&animation=fadeIn" />
