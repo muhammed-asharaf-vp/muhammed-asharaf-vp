@@ -1,22 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Mohamed%20Asharaf%20VP&fontColor=646cff&fontSize=65&animation=twinkling&fontAlignY=35"/>
+# ⚡ Mohamed Asharaf VP
+### ‹ Creative Front-end Architect / ›
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=646CFF&center=true&vCenter=true&width=500&lines=Frontend+Architect;React+%2B+Next.js+Expert;Creative+Coding+with+GSAP;Building+the+Future+of+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=646CFF&center=true&vCenter=true&width=435&lines=React.js+%7C+Next.js+%7C+GSAP;Three.js+Explorer;Building+Interactive+UIs;Performance+First+Mindset" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/muhammed-asharaf-vp">
-  <img src="https://img.shields.io/badge/VISITORS-%7C%201.2k-646cff?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,gsap,tailwind,js,figma,vercel&perline=8" />
+<a href="https://github.com/muhammed-asharaf-vp">
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-646cff?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Location-India-0f172a?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=Views&color=646cff&style=flat-square" />
 </p>
 
+---
+
+### 🛠 Tools of Choice
+`React` • `Next.js` • `GSAP` • `Three.js` • `Tailwind` • `Framer Motion`
+
 </div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=646cff" />
+    </td>
+    <td width="50%" align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-asharaf-vp&theme=tokyonight&hide_border=true&ring=646cff&fire=646cff" />
+    </td>
+  </tr>
+</table>
 
 ---
 
