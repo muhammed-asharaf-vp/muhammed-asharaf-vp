@@ -1,39 +1,46 @@
+
 <div align="center">
 
-# ⚡ Mohamed Asharaf VP
-### ‹ Creative Front-end Architect / ›
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=646CFF&center=true&vCenter=true&width=435&lines=React.js+%7C+Next.js+%7C+GSAP;Three.js+Explorer;Building+Interactive+UIs;Performance+First+Mindset" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=75&pause=1000&color=646CFF&center=true&vCenter=true&width=800&height=100&lines=MOHAMED+ASHARAF;ASHARAF+VP" alt="Typing SVG" />
 
 <br/>
 
-<p align="center">
-<a href="https://github.com/muhammed-asharaf-vp">
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-646cff?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Location-India-0f172a?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=Views&color=646cff&style=flat-square" />
-</p>
-
----
-
-### 🛠 Tools of Choice
-`React` • `Next.js` • `GSAP` • `Three.js` • `Tailwind` • `Framer Motion`
-
-</div>
-
-<br/>
-
-<table align="center">
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-asharaf-vp&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=646cff" />
+    <td align="left" width="400">
+      <code><b>User:</b> mohamed-asharaf-vp</code><br>
+      <code><b>Role:</b> Frontend Engineer / Creative Coder</code><br>
+      <code><b>Location:</b> Kerala, India</code><br>
+      <code><b>Focus:</b> React • GSAP • Three.js</code>
     </td>
-    <td width="50%" align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-asharaf-vp&theme=tokyonight&hide_border=true&ring=646cff&fire=646cff" />
+    <td align="center" width="200">
+      <a href="https://github.com/muhammed-asharaf-vp">
+        <img src="https://komarev.com/ghpvc/?username=muhammed-asharaf-vp&label=SYS_LOG&color=646cff&style=for-the-badge"/>
+      </a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=646cff&height=2&section=header" width="100%"/>
+
+<br/>
+
+<h3>⚡ Current Stack ⚡</h3>
+
+![React](https://img.shields.io/badge/-React-0f172a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0f172a?style=for-the-badge&logo=nextdotjs)
+![GSAP](https://img.shields.io/badge/-GSAP-0f172a?style=for-the-badge&logo=greensock)
+![Three.js](https://img.shields.io/badge/-Three.js-0f172a?style=for-the-badge&logo=threedotjs)
+![Tailwind](https://img.shields.io/badge/-Tailwind-0f172a?style=for-the-badge&logo=tailwindcss)
+
+<br/>
+
+<h3>🐍 Contribution Activity</h3>
+<img src="https://raw.githubusercontent.com/muhammed-asharaf-vp/muhammed-asharaf-vp/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
